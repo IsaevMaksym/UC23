@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Bogus" Version="34.0.2" />
-    <PackageReference Include="Bogus.Hollywood" Version="34.0.2" />
+    <PackageReference Include="ServiceStack.Text" Version="6.9.0" />
   </ItemGroup>
 
 </Project>
